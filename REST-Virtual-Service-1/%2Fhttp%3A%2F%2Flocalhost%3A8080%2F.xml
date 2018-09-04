@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:restMockAction name="/http://localhost:8080/" method="GET" resourcePath="/http://localhost:8080/" id="9cb968af-44a4-45e6-83f3-aa040fc9d97b" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="9cb968af-44a4-45e6-83f3-aa040fc9d97bfileName">%2Fhttp%3A%2F%2Flocalhost%3A8080%2F</con:setting></con:settings><con:dispatchStyle>SEQUENCE</con:dispatchStyle><con:dispatchConfig/><con:dispatchXPath/><con:routeScript/><con:response name="Response 1" id="eb1c43e4-1cca-4ee4-8ec7-334e5af43945" httpResponseStatus="200" mediaType="application/json" dataSource="" compressedBodyContent="aced00057372002f636f6d2e657669776172652e736f617075692e696d706c2e737570706f72742e436f6d7072657373656456616c7565000b8b02c748eeab0200025a000a636f6d707265737365645b0004646174617400025b4278700070"><con:settings/><con:responseContent>{
+
+	"Test":1
+}
+</con:responseContent></con:response></con:restMockAction>
